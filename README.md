@@ -15,6 +15,7 @@ This is a terminal applet, run it via a terminal emulator by this form:
      
      
 Package_Name: specify the app which you wanted to clone.
+
 Warning: dont specify a system app to clone, it will fail to install or cause system errors.
 
 # About
