@@ -11,4 +11,5 @@ This is a terminal applet, run it via a terminal emulator by this form:
 Package_Name: specify the app which you wanted to clone.
 Warning: dont specify a system app to clone, it will fail to install or cause system errors.
 
-# The author(hdt2k), does NOT provide any warranty for this applet, any loses caused by using this applet are at your own risks.
+# About
+The author(hdt2k), does NOT provide any warranty for this applet, any loses caused by using this applet are at your own risks.
